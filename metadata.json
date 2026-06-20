@@ -1,0 +1,6 @@
+{
+  "name": "FoodSave",
+  "description": "FoodSave helps you track food inventory and minimize food waste with expiration warnings and intuitive tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
